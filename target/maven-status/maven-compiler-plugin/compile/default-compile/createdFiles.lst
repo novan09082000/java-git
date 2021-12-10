@@ -1,2 +1,3 @@
 com\tiano\novan\App.class
 com\tiano\novan\variables\TipeDataNumber.class
+com\tiano\novan\variables\TipeDataBoolean.class
