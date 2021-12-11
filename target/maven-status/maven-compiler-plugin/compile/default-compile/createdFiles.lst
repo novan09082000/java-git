@@ -1,4 +1,8 @@
 com\tiano\novan\variables\TipeDataNumber.class
 com\tiano\novan\variables\TipeDataString.class
-com\tiano\novan\App.class
+com\tiano\novan\operator\OperatorPerbandingan.class
+com\tiano\novan\operator\OperatorCasting.class
 com\tiano\novan\variables\TipeDataBoolean.class
+com\tiano\novan\variables\TipeDataDate.class
+com\tiano\novan\App.class
+com\tiano\novan\operator\OperatorMatematika.class
