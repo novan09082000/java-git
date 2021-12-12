@@ -1,4 +1,4 @@
-package com.tiano.novan.selection;
+package com.tiano.novan.loop;
 
 public class DoWhileStatement {
     
