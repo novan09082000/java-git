@@ -1,3 +1,4 @@
+com\tiano\novan\inheritance\InheritanceApplication.class
 com\tiano\novan\operator\OperatorCasting.class
 com\tiano\novan\selection\IfElseIf.class
 com\tiano\novan\selection\IfStatement.class
@@ -20,7 +21,9 @@ com\tiano\novan\selection\SwitchStatementDetail.class
 com\tiano\novan\loop\ForContinueStatement.class
 com\tiano\novan\operator\OperatorMatematika.class
 com\tiano\novan\selection\SwitchStatement.class
+com\tiano\novan\inheritance\Mobil.class
 com\tiano\novan\variables\TipeDataString.class
+com\tiano\novan\inheritance\Sepeda.class
 com\tiano\novan\classes\Kredit.class
 com\tiano\novan\loop\NestedForLoop.class
 com\tiano\novan\classes\Tabungan.class
