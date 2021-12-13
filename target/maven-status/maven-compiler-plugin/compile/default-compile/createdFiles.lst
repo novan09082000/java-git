@@ -9,8 +9,10 @@ com\tiano\novan\operator\OperatorMatematika.class
 com\tiano\novan\selection\SwitchStatement.class
 com\tiano\novan\variables\TipeDataNumber.class
 com\tiano\novan\variables\TipeDataString.class
+com\tiano\novan\function\FunctionArgs.class
 com\tiano\novan\loop\WhileStatement.class
 com\tiano\novan\operator\OperatorPerbandingan.class
+com\tiano\novan\function\BasicFunction.class
 com\tiano\novan\loop\ForStatement.class
 com\tiano\novan\loop\NestedForAndIf.class
 com\tiano\novan\variables\TipeDataDate.class
