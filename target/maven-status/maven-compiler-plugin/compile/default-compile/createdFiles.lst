@@ -3,6 +3,7 @@ com\tiano\novan\overrides\MainApplication.class
 com\tiano\novan\operator\OperatorCasting.class
 com\tiano\novan\selection\IfElseIf.class
 com\tiano\novan\selection\IfStatement.class
+com\tiano\novan\overloading\ChildrenOverloading.class
 com\tiano\novan\classes\ApplicationTabungan.class
 com\tiano\novan\overrides\ParentsOverride.class
 com\tiano\novan\variables\TipeDataNumber.class

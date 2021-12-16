@@ -7,6 +7,12 @@ public class MainApplication {
         ParentOverloading data = new ParentOverloading();
         data.hitung("Novan","Anak","Sholeh");
 
+        ChildrenOverloading child = new ChildrenOverloading();
+        child.hitung();
+        child.testThisHitung();
+        child.testSuperHitung();
+        child.testNotSpesifik();
+
     }
 
 }
