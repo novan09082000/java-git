@@ -12,7 +12,7 @@ public class BasicFunction {
     }
 
     public static void main(String[] args) {
-        System.out.println(String.format("Umur Saya Sekarang adalah", getYearsOld()));
+        System.out.println(String.format("Umur Saya Sekarang adalah %s", getYearsOld()));
         setNamaLengkap();
     }
     
